@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucciu5
 - 👀 I’m interested in .net and web development
-- 🌱 I’m currently learning anguar and .net core
+- 🌱 I’m currently learning angular and .net core
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
